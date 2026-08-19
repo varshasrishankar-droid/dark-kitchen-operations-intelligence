@@ -314,8 +314,10 @@ The project contains four Power BI dashboard pages:
 2. **Kitchen & Operations Analytics**
 3. **Delivery & Customer**
 4. **Financial Intelligence**
-
-Place the final dashboard screenshots inside the `Dashboard_Screenshots/` folder.
+<img width="2196" height="1250" alt="Executive Overview" src="https://github.com/user-attachments/assets/25f6fe51-711b-4d42-a58b-c5d400d7cdc0" />
+<img width="2202" height="1246" alt="Kitchen And Operation Analytics" src="https://github.com/user-attachments/assets/0a9f8844-4bd0-46b3-a9c5-4473d93e033d" />
+<img width="2192" height="1250" alt="Delivery And Customer" src="https://github.com/user-attachments/assets/d310abb0-cd94-4fd4-a347-058ed7a70be8" />
+<img width="2198" height="1248" alt="Financial Intelligence" src="https://github.com/user-attachments/assets/227025e5-3ec7-47ec-b82c-a45952d1d8aa" />
 
 ## How to Run the Project
 
