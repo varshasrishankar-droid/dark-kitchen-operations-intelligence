@@ -1,0 +1,1201 @@
+﻿ComplaintID,OrderID,ComplaintType,Status,ResolutionHours
+CP00001,O003396,Wrong Item,Resolved,51
+CP00002,O006725,Wrong Item,Resolved,70
+CP00003,O019313,Wrong Item,Open,2
+CP00004,O016216,Cold Food,Resolved,63
+CP00005,O002243,Packaging,Open,29
+CP00006,O014384,Packaging,Resolved,54
+CP00007,O009909,Cold Food,Open,3
+CP00008,O011207,Cold Food,Open,25
+CP00009,O002081,Packaging,Resolved,14
+CP00010,O014481,Wrong Item,Resolved,62
+CP00011,O008171,Late Delivery,Open,40
+CP00012,O015489,Packaging,Resolved,26
+CP00013,O001385,Missing Item,Open,25
+CP00014,O005565,Packaging,Open,68
+CP00015,O001329,Missing Item,Open,32
+CP00016,O007628,Wrong Item,Open,52
+CP00017,O002883,Wrong Item,Open,50
+CP00018,O018987,Cold Food,Open,48
+CP00019,O004146,Late Delivery,Resolved,25
+CP00020,O004797,Wrong Item,Open,46
+CP00021,O015060,Wrong Item,Resolved,45
+CP00022,O008395,Cold Food,Open,8
+CP00023,O000403,Missing Item,Open,47
+CP00024,O018913,Packaging,Open,52
+CP00025,O000636,Wrong Item,Resolved,54
+CP00026,O017245,Missing Item,Resolved,64
+CP00027,O015806,Packaging,Open,11
+CP00028,O004409,Packaging,Resolved,15
+CP00029,O013532,Late Delivery,Open,55
+CP00030,O009961,Cold Food,Open,65
+CP00031,O004996,Wrong Item,Open,1
+CP00032,O015091,Cold Food,Resolved,35
+CP00033,O008128,Packaging,Resolved,21
+CP00034,O005904,Wrong Item,Resolved,72
+CP00035,O009351,Missing Item,Open,71
+CP00036,O002637,Late Delivery,Open,24
+CP00037,O005665,Missing Item,Open,29
+CP00038,O002499,Missing Item,Open,70
+CP00039,O003044,Packaging,Open,24
+CP00040,O014558,Missing Item,Open,52
+CP00041,O003481,Cold Food,Open,69
+CP00042,O010765,Missing Item,Resolved,21
+CP00043,O004436,Wrong Item,Resolved,31
+CP00044,O011099,Cold Food,Open,61
+CP00045,O015314,Packaging,Open,39
+CP00046,O007439,Late Delivery,Open,36
+CP00047,O013420,Cold Food,Open,3
+CP00048,O019504,Cold Food,Open,57
+CP00049,O013961,Late Delivery,Open,12
+CP00050,O018427,Cold Food,Open,2
+CP00051,O007893,Missing Item,Resolved,60
+CP00052,O011112,Wrong Item,Resolved,56
+CP00053,O012279,Late Delivery,Resolved,36
+CP00054,O016838,Wrong Item,Resolved,27
+CP00055,O017801,Wrong Item,Resolved,31
+CP00056,O015170,Missing Item,Resolved,32
+CP00057,O019616,Missing Item,Resolved,47
+CP00058,O004608,Late Delivery,Open,3
+CP00059,O019223,Wrong Item,Resolved,50
+CP00060,O002973,Packaging,Open,7
+CP00061,O008350,Missing Item,Resolved,68
+CP00062,O013304,Wrong Item,Resolved,30
+CP00063,O019722,Packaging,Open,34
+CP00064,O014583,Late Delivery,Resolved,33
+CP00065,O014646,Wrong Item,Open,24
+CP00066,O011752,Packaging,Resolved,57
+CP00067,O007510,Cold Food,Resolved,22
+CP00068,O011428,Missing Item,Open,67
+CP00069,O006627,Packaging,Resolved,29
+CP00070,O008445,Wrong Item,Open,15
+CP00071,O002328,Missing Item,Open,51
+CP00072,O009403,Missing Item,Open,11
+CP00073,O016910,Missing Item,Open,54
+CP00074,O008814,Wrong Item,Resolved,11
+CP00075,O001912,Cold Food,Resolved,63
+CP00076,O013118,Missing Item,Open,64
+CP00077,O019620,Wrong Item,Open,44
+CP00078,O010108,Cold Food,Open,25
+CP00079,O015967,Packaging,Resolved,20
+CP00080,O017909,Wrong Item,Open,37
+CP00081,O005915,Wrong Item,Open,53
+CP00082,O013724,Packaging,Open,39
+CP00083,O006379,Missing Item,Resolved,54
+CP00084,O010721,Wrong Item,Resolved,66
+CP00085,O007003,Missing Item,Open,36
+CP00086,O008081,Late Delivery,Resolved,37
+CP00087,O015214,Cold Food,Resolved,36
+CP00088,O009601,Missing Item,Resolved,19
+CP00089,O017950,Packaging,Resolved,58
+CP00090,O012107,Packaging,Resolved,60
+CP00091,O009227,Cold Food,Resolved,43
+CP00092,O017432,Missing Item,Resolved,58
+CP00093,O010908,Wrong Item,Resolved,68
+CP00094,O011225,Wrong Item,Resolved,27
+CP00095,O015696,Late Delivery,Resolved,55
+CP00096,O018836,Cold Food,Resolved,19
+CP00097,O007982,Missing Item,Open,69
+CP00098,O003034,Late Delivery,Open,62
+CP00099,O019773,Late Delivery,Open,64
+CP00100,O019844,Wrong Item,Open,60
+CP00101,O002800,Wrong Item,Open,3
+CP00102,O007750,Cold Food,Resolved,31
+CP00103,O015479,Wrong Item,Open,30
+CP00104,O011991,Wrong Item,Resolved,69
+CP00105,O000825,Wrong Item,Resolved,29
+CP00106,O010467,Cold Food,Resolved,58
+CP00107,O010400,Missing Item,Open,6
+CP00108,O009813,Late Delivery,Resolved,56
+CP00109,O005403,Cold Food,Open,17
+CP00110,O002747,Packaging,Resolved,43
+CP00111,O013410,Cold Food,Open,54
+CP00112,O012054,Late Delivery,Resolved,15
+CP00113,O008305,Cold Food,Resolved,59
+CP00114,O014089,Wrong Item,Open,47
+CP00115,O008350,Wrong Item,Open,66
+CP00116,O002492,Missing Item,Open,72
+CP00117,O017952,Cold Food,Open,15
+CP00118,O015300,Cold Food,Resolved,1
+CP00119,O018782,Late Delivery,Resolved,72
+CP00120,O015982,Wrong Item,Open,34
+CP00121,O008119,Missing Item,Open,15
+CP00122,O012181,Late Delivery,Resolved,40
+CP00123,O017884,Missing Item,Open,14
+CP00124,O004357,Cold Food,Resolved,3
+CP00125,O017125,Missing Item,Open,6
+CP00126,O007758,Cold Food,Resolved,41
+CP00127,O016936,Missing Item,Resolved,42
+CP00128,O004066,Packaging,Open,64
+CP00129,O000010,Missing Item,Open,9
+CP00130,O014897,Cold Food,Resolved,26
+CP00131,O008472,Wrong Item,Resolved,1
+CP00132,O005723,Wrong Item,Resolved,22
+CP00133,O005589,Missing Item,Open,33
+CP00134,O013221,Wrong Item,Open,59
+CP00135,O007624,Packaging,Resolved,32
+CP00136,O018238,Wrong Item,Resolved,39
+CP00137,O009871,Packaging,Resolved,51
+CP00138,O014012,Cold Food,Open,65
+CP00139,O008680,Packaging,Resolved,54
+CP00140,O015873,Cold Food,Open,66
+CP00141,O019070,Late Delivery,Resolved,52
+CP00142,O001819,Late Delivery,Resolved,33
+CP00143,O015266,Cold Food,Open,33
+CP00144,O016685,Cold Food,Open,45
+CP00145,O003367,Wrong Item,Open,48
+CP00146,O011523,Wrong Item,Resolved,46
+CP00147,O006511,Packaging,Open,68
+CP00148,O007950,Wrong Item,Open,34
+CP00149,O011368,Packaging,Open,56
+CP00150,O005731,Packaging,Resolved,61
+CP00151,O007424,Cold Food,Resolved,44
+CP00152,O013788,Missing Item,Resolved,21
+CP00153,O011727,Wrong Item,Open,48
+CP00154,O004662,Missing Item,Open,17
+CP00155,O005848,Cold Food,Open,50
+CP00156,O000028,Packaging,Resolved,5
+CP00157,O003871,Packaging,Resolved,63
+CP00158,O018701,Packaging,Open,46
+CP00159,O016491,Missing Item,Resolved,32
+CP00160,O013486,Wrong Item,Open,71
+CP00161,O008323,Missing Item,Open,3
+CP00162,O007660,Missing Item,Resolved,17
+CP00163,O000650,Wrong Item,Open,62
+CP00164,O004370,Wrong Item,Resolved,16
+CP00165,O004100,Cold Food,Open,7
+CP00166,O003304,Wrong Item,Resolved,8
+CP00167,O001758,Wrong Item,Resolved,32
+CP00168,O014217,Packaging,Open,12
+CP00169,O016434,Missing Item,Resolved,42
+CP00170,O002354,Late Delivery,Resolved,71
+CP00171,O013063,Packaging,Resolved,16
+CP00172,O019453,Cold Food,Open,27
+CP00173,O011661,Packaging,Resolved,62
+CP00174,O006685,Packaging,Resolved,58
+CP00175,O018724,Cold Food,Resolved,45
+CP00176,O003813,Wrong Item,Resolved,53
+CP00177,O009339,Missing Item,Open,11
+CP00178,O008271,Missing Item,Open,72
+CP00179,O007315,Missing Item,Resolved,71
+CP00180,O009392,Cold Food,Open,25
+CP00181,O011626,Packaging,Open,11
+CP00182,O010954,Packaging,Resolved,12
+CP00183,O011404,Late Delivery,Resolved,20
+CP00184,O019933,Missing Item,Resolved,7
+CP00185,O019930,Wrong Item,Resolved,7
+CP00186,O017652,Late Delivery,Resolved,39
+CP00187,O006666,Wrong Item,Open,15
+CP00188,O009793,Cold Food,Open,34
+CP00189,O012684,Packaging,Resolved,46
+CP00190,O011390,Missing Item,Resolved,46
+CP00191,O003956,Wrong Item,Open,18
+CP00192,O008827,Packaging,Open,52
+CP00193,O007936,Cold Food,Resolved,56
+CP00194,O007111,Cold Food,Open,70
+CP00195,O014508,Late Delivery,Open,62
+CP00196,O005323,Packaging,Open,64
+CP00197,O013722,Wrong Item,Open,11
+CP00198,O017861,Late Delivery,Resolved,72
+CP00199,O000057,Missing Item,Resolved,17
+CP00200,O005697,Packaging,Open,63
+CP00201,O001234,Late Delivery,Open,33
+CP00202,O011131,Packaging,Resolved,66
+CP00203,O000929,Cold Food,Open,6
+CP00204,O007992,Cold Food,Open,24
+CP00205,O005596,Late Delivery,Resolved,42
+CP00206,O012735,Missing Item,Open,22
+CP00207,O010199,Wrong Item,Open,53
+CP00208,O018424,Packaging,Resolved,22
+CP00209,O013952,Packaging,Open,47
+CP00210,O006001,Wrong Item,Open,56
+CP00211,O013156,Missing Item,Resolved,7
+CP00212,O015480,Wrong Item,Resolved,18
+CP00213,O019508,Packaging,Open,48
+CP00214,O017728,Cold Food,Resolved,57
+CP00215,O011778,Packaging,Resolved,38
+CP00216,O015421,Wrong Item,Open,18
+CP00217,O007189,Packaging,Open,70
+CP00218,O000033,Wrong Item,Open,68
+CP00219,O014910,Packaging,Open,49
+CP00220,O008578,Cold Food,Resolved,68
+CP00221,O004376,Missing Item,Resolved,63
+CP00222,O008181,Wrong Item,Open,5
+CP00223,O011644,Packaging,Resolved,46
+CP00224,O008449,Missing Item,Resolved,18
+CP00225,O015908,Wrong Item,Open,60
+CP00226,O005380,Missing Item,Resolved,37
+CP00227,O009248,Cold Food,Open,63
+CP00228,O010035,Packaging,Open,70
+CP00229,O013527,Late Delivery,Resolved,71
+CP00230,O002578,Wrong Item,Resolved,8
+CP00231,O015911,Late Delivery,Open,46
+CP00232,O007327,Packaging,Open,1
+CP00233,O010867,Cold Food,Resolved,48
+CP00234,O016466,Late Delivery,Resolved,20
+CP00235,O001673,Cold Food,Open,22
+CP00236,O001366,Missing Item,Resolved,38
+CP00237,O004360,Missing Item,Resolved,21
+CP00238,O003123,Cold Food,Open,47
+CP00239,O011757,Cold Food,Open,59
+CP00240,O006615,Cold Food,Open,2
+CP00241,O004348,Cold Food,Resolved,25
+CP00242,O012146,Wrong Item,Resolved,63
+CP00243,O008980,Missing Item,Resolved,27
+CP00244,O011364,Late Delivery,Open,28
+CP00245,O000073,Packaging,Open,48
+CP00246,O009215,Packaging,Open,34
+CP00247,O010434,Cold Food,Resolved,12
+CP00248,O001842,Wrong Item,Resolved,66
+CP00249,O010945,Cold Food,Open,70
+CP00250,O003304,Missing Item,Resolved,24
+CP00251,O009154,Packaging,Open,6
+CP00252,O015653,Wrong Item,Resolved,20
+CP00253,O004516,Missing Item,Open,49
+CP00254,O015815,Late Delivery,Open,16
+CP00255,O015452,Missing Item,Resolved,19
+CP00256,O004955,Cold Food,Resolved,33
+CP00257,O014328,Wrong Item,Open,61
+CP00258,O005666,Late Delivery,Resolved,19
+CP00259,O014863,Missing Item,Resolved,23
+CP00260,O012227,Missing Item,Open,18
+CP00261,O005704,Wrong Item,Resolved,52
+CP00262,O015077,Cold Food,Open,15
+CP00263,O006150,Cold Food,Open,47
+CP00264,O006500,Late Delivery,Resolved,18
+CP00265,O004286,Late Delivery,Resolved,24
+CP00266,O009784,Missing Item,Open,64
+CP00267,O004745,Wrong Item,Open,58
+CP00268,O016134,Wrong Item,Open,12
+CP00269,O007163,Packaging,Resolved,57
+CP00270,O007153,Late Delivery,Open,15
+CP00271,O010253,Wrong Item,Open,70
+CP00272,O014857,Missing Item,Open,14
+CP00273,O006618,Packaging,Resolved,51
+CP00274,O005455,Late Delivery,Open,38
+CP00275,O002388,Cold Food,Open,47
+CP00276,O012062,Cold Food,Open,37
+CP00277,O001053,Packaging,Resolved,25
+CP00278,O004717,Cold Food,Open,22
+CP00279,O002505,Late Delivery,Resolved,53
+CP00280,O013840,Wrong Item,Resolved,66
+CP00281,O011986,Wrong Item,Resolved,57
+CP00282,O017359,Missing Item,Open,31
+CP00283,O011649,Late Delivery,Resolved,46
+CP00284,O014953,Cold Food,Resolved,41
+CP00285,O001295,Packaging,Open,71
+CP00286,O016601,Missing Item,Open,29
+CP00287,O015260,Packaging,Resolved,42
+CP00288,O003878,Packaging,Open,9
+CP00289,O013599,Late Delivery,Resolved,34
+CP00290,O005889,Cold Food,Open,33
+CP00291,O016222,Late Delivery,Open,39
+CP00292,O018698,Late Delivery,Open,51
+CP00293,O017838,Packaging,Open,71
+CP00294,O015956,Missing Item,Resolved,56
+CP00295,O000438,Packaging,Resolved,61
+CP00296,O008341,Late Delivery,Resolved,20
+CP00297,O016173,Late Delivery,Resolved,10
+CP00298,O006146,Late Delivery,Resolved,44
+CP00299,O000602,Packaging,Open,24
+CP00300,O004031,Wrong Item,Open,64
+CP00301,O015201,Missing Item,Resolved,64
+CP00302,O015153,Wrong Item,Resolved,65
+CP00303,O011387,Missing Item,Open,62
+CP00304,O016656,Cold Food,Resolved,36
+CP00305,O017524,Cold Food,Resolved,19
+CP00306,O001326,Late Delivery,Resolved,53
+CP00307,O007337,Missing Item,Open,62
+CP00308,O013792,Wrong Item,Open,5
+CP00309,O001671,Missing Item,Resolved,28
+CP00310,O002389,Late Delivery,Resolved,25
+CP00311,O011979,Late Delivery,Resolved,50
+CP00312,O014379,Packaging,Open,31
+CP00313,O000305,Packaging,Resolved,32
+CP00314,O016674,Wrong Item,Resolved,50
+CP00315,O007611,Wrong Item,Open,69
+CP00316,O013578,Wrong Item,Resolved,34
+CP00317,O016324,Packaging,Resolved,21
+CP00318,O010256,Wrong Item,Resolved,57
+CP00319,O013306,Cold Food,Open,48
+CP00320,O006586,Cold Food,Open,2
+CP00321,O017734,Cold Food,Resolved,9
+CP00322,O012346,Missing Item,Open,35
+CP00323,O017639,Packaging,Open,38
+CP00324,O015147,Late Delivery,Open,69
+CP00325,O019640,Packaging,Resolved,19
+CP00326,O008129,Cold Food,Resolved,25
+CP00327,O009472,Packaging,Resolved,60
+CP00328,O014021,Wrong Item,Resolved,30
+CP00329,O000605,Packaging,Resolved,13
+CP00330,O012983,Packaging,Open,71
+CP00331,O018763,Late Delivery,Resolved,49
+CP00332,O008373,Late Delivery,Open,69
+CP00333,O017081,Packaging,Open,19
+CP00334,O008527,Missing Item,Open,19
+CP00335,O005925,Missing Item,Resolved,45
+CP00336,O012962,Packaging,Open,57
+CP00337,O011582,Cold Food,Open,9
+CP00338,O002542,Packaging,Open,19
+CP00339,O007925,Late Delivery,Resolved,48
+CP00340,O017224,Cold Food,Open,35
+CP00341,O018611,Cold Food,Resolved,67
+CP00342,O000075,Cold Food,Resolved,18
+CP00343,O001697,Wrong Item,Open,35
+CP00344,O018694,Wrong Item,Resolved,17
+CP00345,O005204,Packaging,Open,23
+CP00346,O019895,Missing Item,Open,52
+CP00347,O014639,Cold Food,Open,69
+CP00348,O012108,Cold Food,Open,38
+CP00349,O012928,Packaging,Resolved,27
+CP00350,O013805,Missing Item,Open,39
+CP00351,O017039,Cold Food,Open,19
+CP00352,O000893,Cold Food,Resolved,61
+CP00353,O009903,Wrong Item,Open,45
+CP00354,O011829,Packaging,Resolved,17
+CP00355,O013121,Missing Item,Open,56
+CP00356,O012769,Missing Item,Open,11
+CP00357,O007747,Missing Item,Resolved,63
+CP00358,O018648,Wrong Item,Resolved,67
+CP00359,O000705,Packaging,Open,38
+CP00360,O010314,Wrong Item,Resolved,19
+CP00361,O015438,Wrong Item,Open,6
+CP00362,O001147,Late Delivery,Open,7
+CP00363,O007341,Packaging,Resolved,64
+CP00364,O007820,Missing Item,Open,60
+CP00365,O014743,Missing Item,Resolved,13
+CP00366,O014309,Cold Food,Open,41
+CP00367,O012872,Missing Item,Resolved,28
+CP00368,O017090,Wrong Item,Open,57
+CP00369,O000316,Missing Item,Resolved,43
+CP00370,O011533,Late Delivery,Open,58
+CP00371,O006628,Cold Food,Open,9
+CP00372,O005762,Wrong Item,Resolved,42
+CP00373,O007321,Wrong Item,Resolved,57
+CP00374,O002018,Late Delivery,Open,7
+CP00375,O015356,Packaging,Resolved,23
+CP00376,O002758,Cold Food,Open,25
+CP00377,O016323,Wrong Item,Resolved,46
+CP00378,O014419,Cold Food,Open,10
+CP00379,O004707,Wrong Item,Resolved,8
+CP00380,O004188,Late Delivery,Resolved,25
+CP00381,O006637,Wrong Item,Resolved,18
+CP00382,O015063,Late Delivery,Resolved,16
+CP00383,O012443,Missing Item,Open,54
+CP00384,O019518,Wrong Item,Resolved,5
+CP00385,O012213,Cold Food,Open,41
+CP00386,O006652,Wrong Item,Open,71
+CP00387,O015329,Wrong Item,Resolved,33
+CP00388,O013778,Missing Item,Resolved,63
+CP00389,O017002,Wrong Item,Open,66
+CP00390,O002433,Late Delivery,Resolved,66
+CP00391,O009913,Missing Item,Open,50
+CP00392,O006683,Missing Item,Resolved,42
+CP00393,O013733,Missing Item,Open,46
+CP00394,O002667,Packaging,Resolved,50
+CP00395,O013154,Late Delivery,Resolved,53
+CP00396,O009861,Cold Food,Resolved,19
+CP00397,O013051,Wrong Item,Resolved,11
+CP00398,O001345,Late Delivery,Open,49
+CP00399,O008719,Wrong Item,Open,51
+CP00400,O003533,Late Delivery,Open,26
+CP00401,O002790,Late Delivery,Open,69
+CP00402,O018415,Late Delivery,Resolved,36
+CP00403,O005625,Packaging,Resolved,53
+CP00404,O011926,Cold Food,Resolved,44
+CP00405,O006011,Packaging,Open,62
+CP00406,O002513,Packaging,Open,51
+CP00407,O004217,Missing Item,Open,28
+CP00408,O015405,Cold Food,Open,66
+CP00409,O011718,Cold Food,Open,7
+CP00410,O005832,Late Delivery,Open,70
+CP00411,O018261,Missing Item,Resolved,32
+CP00412,O019657,Late Delivery,Resolved,37
+CP00413,O010023,Cold Food,Resolved,13
+CP00414,O017541,Cold Food,Open,52
+CP00415,O015905,Cold Food,Resolved,4
+CP00416,O000106,Late Delivery,Open,58
+CP00417,O012922,Missing Item,Resolved,56
+CP00418,O004842,Cold Food,Open,7
+CP00419,O002550,Packaging,Open,58
+CP00420,O006118,Late Delivery,Open,7
+CP00421,O015757,Missing Item,Resolved,8
+CP00422,O011496,Packaging,Open,54
+CP00423,O009875,Cold Food,Resolved,40
+CP00424,O015058,Wrong Item,Open,53
+CP00425,O003587,Packaging,Resolved,52
+CP00426,O019669,Cold Food,Resolved,51
+CP00427,O006232,Late Delivery,Resolved,50
+CP00428,O003656,Missing Item,Resolved,21
+CP00429,O018618,Missing Item,Resolved,57
+CP00430,O001100,Cold Food,Open,43
+CP00431,O012684,Cold Food,Open,59
+CP00432,O018468,Wrong Item,Resolved,20
+CP00433,O018311,Packaging,Resolved,32
+CP00434,O012405,Missing Item,Open,43
+CP00435,O019930,Missing Item,Open,70
+CP00436,O013959,Cold Food,Resolved,62
+CP00437,O007837,Cold Food,Resolved,61
+CP00438,O001920,Cold Food,Resolved,48
+CP00439,O005197,Packaging,Resolved,64
+CP00440,O002168,Missing Item,Open,58
+CP00441,O010037,Packaging,Resolved,11
+CP00442,O014355,Late Delivery,Resolved,1
+CP00443,O003086,Wrong Item,Open,64
+CP00444,O000408,Late Delivery,Resolved,7
+CP00445,O010848,Wrong Item,Open,38
+CP00446,O000473,Cold Food,Open,55
+CP00447,O019928,Cold Food,Resolved,36
+CP00448,O001678,Cold Food,Open,4
+CP00449,O000985,Cold Food,Resolved,32
+CP00450,O002988,Late Delivery,Open,50
+CP00451,O001226,Wrong Item,Open,42
+CP00452,O018826,Late Delivery,Resolved,60
+CP00453,O010443,Cold Food,Open,25
+CP00454,O004657,Late Delivery,Resolved,25
+CP00455,O011685,Cold Food,Resolved,47
+CP00456,O016342,Late Delivery,Resolved,24
+CP00457,O003713,Cold Food,Resolved,68
+CP00458,O007283,Wrong Item,Open,28
+CP00459,O007796,Late Delivery,Open,51
+CP00460,O009359,Wrong Item,Resolved,64
+CP00461,O009995,Cold Food,Open,53
+CP00462,O004123,Late Delivery,Open,41
+CP00463,O004346,Missing Item,Open,42
+CP00464,O007613,Late Delivery,Open,7
+CP00465,O008701,Late Delivery,Open,38
+CP00466,O017990,Packaging,Resolved,43
+CP00467,O018384,Missing Item,Open,43
+CP00468,O002946,Wrong Item,Resolved,34
+CP00469,O001351,Wrong Item,Resolved,32
+CP00470,O015511,Late Delivery,Open,12
+CP00471,O009802,Packaging,Open,56
+CP00472,O008915,Cold Food,Open,30
+CP00473,O004256,Late Delivery,Resolved,11
+CP00474,O005936,Missing Item,Open,17
+CP00475,O005285,Wrong Item,Open,63
+CP00476,O003736,Cold Food,Resolved,3
+CP00477,O012733,Late Delivery,Resolved,35
+CP00478,O019990,Wrong Item,Resolved,16
+CP00479,O013612,Wrong Item,Resolved,11
+CP00480,O012391,Missing Item,Open,19
+CP00481,O006272,Cold Food,Resolved,27
+CP00482,O017991,Wrong Item,Resolved,30
+CP00483,O019013,Missing Item,Resolved,8
+CP00484,O015995,Cold Food,Resolved,36
+CP00485,O005407,Late Delivery,Open,71
+CP00486,O015965,Wrong Item,Open,28
+CP00487,O003758,Packaging,Resolved,63
+CP00488,O002026,Wrong Item,Resolved,28
+CP00489,O017008,Wrong Item,Open,48
+CP00490,O015424,Late Delivery,Resolved,29
+CP00491,O013643,Wrong Item,Open,17
+CP00492,O019534,Late Delivery,Resolved,4
+CP00493,O007551,Late Delivery,Resolved,2
+CP00494,O018608,Late Delivery,Resolved,16
+CP00495,O001580,Wrong Item,Open,22
+CP00496,O007792,Missing Item,Resolved,38
+CP00497,O008225,Cold Food,Open,33
+CP00498,O007257,Late Delivery,Open,12
+CP00499,O015018,Wrong Item,Resolved,18
+CP00500,O017713,Cold Food,Open,11
+CP00501,O006856,Missing Item,Open,33
+CP00502,O005380,Late Delivery,Open,10
+CP00503,O014152,Wrong Item,Open,21
+CP00504,O013093,Cold Food,Resolved,44
+CP00505,O005576,Cold Food,Resolved,53
+CP00506,O011636,Missing Item,Resolved,20
+CP00507,O003927,Packaging,Resolved,7
+CP00508,O008854,Late Delivery,Open,29
+CP00509,O016493,Missing Item,Open,18
+CP00510,O000494,Packaging,Open,28
+CP00511,O010026,Missing Item,Resolved,12
+CP00512,O018601,Missing Item,Open,63
+CP00513,O007980,Cold Food,Resolved,3
+CP00514,O010114,Late Delivery,Resolved,36
+CP00515,O012674,Late Delivery,Resolved,72
+CP00516,O003501,Wrong Item,Resolved,71
+CP00517,O001283,Cold Food,Open,30
+CP00518,O007599,Cold Food,Resolved,42
+CP00519,O007955,Wrong Item,Resolved,52
+CP00520,O017757,Late Delivery,Open,39
+CP00521,O019170,Missing Item,Resolved,27
+CP00522,O006220,Cold Food,Resolved,62
+CP00523,O009592,Packaging,Open,14
+CP00524,O013151,Cold Food,Open,6
+CP00525,O018278,Packaging,Open,18
+CP00526,O014529,Late Delivery,Open,46
+CP00527,O003462,Late Delivery,Resolved,45
+CP00528,O011914,Packaging,Resolved,2
+CP00529,O004352,Late Delivery,Open,63
+CP00530,O016217,Wrong Item,Open,55
+CP00531,O005524,Late Delivery,Resolved,23
+CP00532,O014344,Late Delivery,Resolved,39
+CP00533,O016943,Wrong Item,Open,13
+CP00534,O014183,Packaging,Resolved,50
+CP00535,O015311,Packaging,Open,54
+CP00536,O018049,Cold Food,Open,56
+CP00537,O004216,Late Delivery,Resolved,7
+CP00538,O018481,Missing Item,Open,1
+CP00539,O018140,Wrong Item,Open,40
+CP00540,O001246,Wrong Item,Open,54
+CP00541,O017758,Packaging,Resolved,15
+CP00542,O017492,Wrong Item,Resolved,56
+CP00543,O013152,Cold Food,Open,5
+CP00544,O002318,Missing Item,Resolved,43
+CP00545,O010417,Cold Food,Open,28
+CP00546,O017677,Wrong Item,Open,35
+CP00547,O009082,Packaging,Resolved,45
+CP00548,O006671,Cold Food,Open,6
+CP00549,O013642,Wrong Item,Open,52
+CP00550,O000783,Packaging,Open,7
+CP00551,O009736,Missing Item,Resolved,53
+CP00552,O005205,Late Delivery,Open,27
+CP00553,O004366,Wrong Item,Resolved,31
+CP00554,O005467,Late Delivery,Open,51
+CP00555,O017281,Packaging,Resolved,18
+CP00556,O017179,Packaging,Resolved,30
+CP00557,O009670,Cold Food,Resolved,31
+CP00558,O018386,Late Delivery,Resolved,10
+CP00559,O002144,Cold Food,Resolved,10
+CP00560,O003884,Packaging,Open,69
+CP00561,O013273,Cold Food,Open,14
+CP00562,O005465,Wrong Item,Open,48
+CP00563,O009016,Cold Food,Resolved,19
+CP00564,O019400,Wrong Item,Resolved,60
+CP00565,O003156,Wrong Item,Resolved,28
+CP00566,O017792,Cold Food,Open,13
+CP00567,O007112,Packaging,Open,11
+CP00568,O002784,Packaging,Open,47
+CP00569,O013041,Packaging,Resolved,71
+CP00570,O004006,Packaging,Open,49
+CP00571,O008468,Wrong Item,Open,64
+CP00572,O014296,Late Delivery,Resolved,3
+CP00573,O000196,Late Delivery,Open,36
+CP00574,O015485,Cold Food,Open,70
+CP00575,O019297,Wrong Item,Resolved,24
+CP00576,O010192,Missing Item,Resolved,41
+CP00577,O014013,Missing Item,Resolved,37
+CP00578,O011045,Late Delivery,Open,4
+CP00579,O002139,Cold Food,Open,51
+CP00580,O000420,Cold Food,Resolved,32
+CP00581,O019774,Packaging,Open,64
+CP00582,O004742,Wrong Item,Open,50
+CP00583,O011210,Wrong Item,Open,65
+CP00584,O002194,Wrong Item,Resolved,60
+CP00585,O010447,Missing Item,Open,13
+CP00586,O010631,Cold Food,Open,70
+CP00587,O008861,Wrong Item,Resolved,48
+CP00588,O019958,Wrong Item,Resolved,2
+CP00589,O006389,Cold Food,Open,21
+CP00590,O010002,Missing Item,Open,30
+CP00591,O007336,Packaging,Resolved,43
+CP00592,O008544,Cold Food,Open,58
+CP00593,O002461,Cold Food,Open,38
+CP00594,O016767,Packaging,Resolved,47
+CP00595,O016967,Packaging,Resolved,6
+CP00596,O015626,Missing Item,Resolved,12
+CP00597,O012143,Late Delivery,Resolved,32
+CP00598,O005807,Late Delivery,Resolved,72
+CP00599,O011943,Cold Food,Resolved,39
+CP00600,O016614,Cold Food,Open,58
+CP00601,O008135,Late Delivery,Open,62
+CP00602,O000660,Cold Food,Open,53
+CP00603,O012880,Packaging,Resolved,33
+CP00604,O002065,Packaging,Resolved,52
+CP00605,O011026,Wrong Item,Open,8
+CP00606,O011721,Late Delivery,Open,57
+CP00607,O004273,Wrong Item,Resolved,68
+CP00608,O011437,Cold Food,Open,71
+CP00609,O000431,Late Delivery,Open,39
+CP00610,O006358,Missing Item,Resolved,8
+CP00611,O010277,Cold Food,Resolved,13
+CP00612,O010518,Packaging,Resolved,2
+CP00613,O000380,Wrong Item,Open,9
+CP00614,O002249,Late Delivery,Open,37
+CP00615,O010876,Late Delivery,Open,70
+CP00616,O018352,Cold Food,Resolved,69
+CP00617,O006471,Packaging,Resolved,64
+CP00618,O002597,Late Delivery,Resolved,29
+CP00619,O013736,Late Delivery,Resolved,60
+CP00620,O002648,Late Delivery,Resolved,26
+CP00621,O017694,Cold Food,Resolved,57
+CP00622,O000792,Late Delivery,Resolved,62
+CP00623,O018221,Wrong Item,Resolved,65
+CP00624,O006076,Cold Food,Open,67
+CP00625,O010621,Packaging,Resolved,59
+CP00626,O019639,Cold Food,Open,27
+CP00627,O000616,Late Delivery,Resolved,38
+CP00628,O007040,Cold Food,Resolved,64
+CP00629,O016944,Late Delivery,Open,6
+CP00630,O000895,Wrong Item,Resolved,27
+CP00631,O011040,Missing Item,Open,39
+CP00632,O011888,Late Delivery,Open,41
+CP00633,O014791,Packaging,Open,18
+CP00634,O015448,Wrong Item,Open,53
+CP00635,O012713,Late Delivery,Resolved,62
+CP00636,O017538,Late Delivery,Open,14
+CP00637,O015153,Missing Item,Open,9
+CP00638,O006187,Wrong Item,Open,47
+CP00639,O009507,Wrong Item,Open,71
+CP00640,O016489,Wrong Item,Resolved,50
+CP00641,O004445,Missing Item,Open,45
+CP00642,O011293,Missing Item,Resolved,64
+CP00643,O010766,Packaging,Open,68
+CP00644,O004910,Late Delivery,Resolved,54
+CP00645,O012844,Wrong Item,Open,35
+CP00646,O002323,Late Delivery,Resolved,55
+CP00647,O012829,Missing Item,Resolved,17
+CP00648,O007862,Cold Food,Open,43
+CP00649,O010107,Packaging,Open,38
+CP00650,O000620,Packaging,Resolved,29
+CP00651,O003599,Wrong Item,Resolved,63
+CP00652,O014715,Packaging,Open,64
+CP00653,O012321,Missing Item,Resolved,48
+CP00654,O000634,Missing Item,Resolved,58
+CP00655,O006216,Late Delivery,Resolved,26
+CP00656,O012312,Late Delivery,Resolved,61
+CP00657,O019386,Wrong Item,Open,1
+CP00658,O015125,Packaging,Open,40
+CP00659,O007075,Cold Food,Open,7
+CP00660,O018604,Wrong Item,Open,25
+CP00661,O016143,Wrong Item,Resolved,29
+CP00662,O003527,Missing Item,Resolved,56
+CP00663,O016283,Missing Item,Open,48
+CP00664,O011661,Wrong Item,Resolved,46
+CP00665,O001290,Packaging,Open,31
+CP00666,O006984,Packaging,Resolved,59
+CP00667,O000124,Packaging,Open,69
+CP00668,O001226,Wrong Item,Resolved,24
+CP00669,O015573,Packaging,Open,39
+CP00670,O002718,Cold Food,Resolved,43
+CP00671,O000679,Packaging,Resolved,48
+CP00672,O008255,Packaging,Open,24
+CP00673,O006367,Wrong Item,Open,52
+CP00674,O010910,Missing Item,Resolved,23
+CP00675,O006811,Cold Food,Open,28
+CP00676,O011650,Late Delivery,Resolved,32
+CP00677,O012328,Wrong Item,Open,37
+CP00678,O015917,Wrong Item,Open,71
+CP00679,O009107,Missing Item,Open,46
+CP00680,O010373,Packaging,Open,33
+CP00681,O000835,Wrong Item,Resolved,52
+CP00682,O019297,Wrong Item,Open,50
+CP00683,O001463,Wrong Item,Open,72
+CP00684,O008432,Missing Item,Open,57
+CP00685,O010530,Missing Item,Open,45
+CP00686,O008614,Wrong Item,Resolved,7
+CP00687,O000378,Missing Item,Resolved,38
+CP00688,O018833,Cold Food,Open,45
+CP00689,O010302,Cold Food,Resolved,56
+CP00690,O018159,Wrong Item,Resolved,12
+CP00691,O000341,Packaging,Open,24
+CP00692,O014635,Late Delivery,Open,8
+CP00693,O017666,Wrong Item,Resolved,46
+CP00694,O011262,Wrong Item,Open,62
+CP00695,O010729,Wrong Item,Resolved,52
+CP00696,O017470,Late Delivery,Open,61
+CP00697,O014066,Late Delivery,Resolved,57
+CP00698,O013857,Wrong Item,Open,45
+CP00699,O011747,Missing Item,Open,42
+CP00700,O008262,Wrong Item,Open,9
+CP00701,O008100,Missing Item,Open,5
+CP00702,O010498,Cold Food,Open,71
+CP00703,O013052,Wrong Item,Resolved,8
+CP00704,O005417,Late Delivery,Open,27
+CP00705,O017059,Packaging,Resolved,57
+CP00706,O015949,Missing Item,Resolved,45
+CP00707,O015415,Wrong Item,Open,21
+CP00708,O007606,Late Delivery,Open,54
+CP00709,O002422,Cold Food,Open,25
+CP00710,O011707,Late Delivery,Open,27
+CP00711,O000619,Late Delivery,Resolved,15
+CP00712,O004758,Late Delivery,Open,71
+CP00713,O016116,Packaging,Open,5
+CP00714,O018862,Packaging,Resolved,68
+CP00715,O006710,Wrong Item,Open,9
+CP00716,O014741,Wrong Item,Resolved,18
+CP00717,O004340,Wrong Item,Open,13
+CP00718,O002561,Packaging,Resolved,20
+CP00719,O019222,Packaging,Resolved,57
+CP00720,O012498,Wrong Item,Resolved,35
+CP00721,O004952,Late Delivery,Resolved,14
+CP00722,O011079,Missing Item,Resolved,1
+CP00723,O008825,Wrong Item,Resolved,68
+CP00724,O013070,Wrong Item,Open,36
+CP00725,O000250,Cold Food,Resolved,59
+CP00726,O008350,Missing Item,Resolved,57
+CP00727,O008639,Wrong Item,Open,36
+CP00728,O012678,Cold Food,Resolved,26
+CP00729,O002310,Cold Food,Open,31
+CP00730,O013303,Packaging,Resolved,42
+CP00731,O016608,Late Delivery,Resolved,63
+CP00732,O002080,Late Delivery,Resolved,2
+CP00733,O013304,Packaging,Resolved,71
+CP00734,O009535,Packaging,Open,65
+CP00735,O009564,Late Delivery,Open,58
+CP00736,O011203,Wrong Item,Resolved,58
+CP00737,O014537,Wrong Item,Resolved,5
+CP00738,O009777,Cold Food,Resolved,32
+CP00739,O007487,Wrong Item,Resolved,9
+CP00740,O012801,Missing Item,Resolved,27
+CP00741,O000218,Wrong Item,Open,46
+CP00742,O016049,Late Delivery,Open,7
+CP00743,O019388,Late Delivery,Resolved,71
+CP00744,O018185,Missing Item,Resolved,58
+CP00745,O010942,Cold Food,Open,48
+CP00746,O016020,Wrong Item,Resolved,44
+CP00747,O003056,Late Delivery,Open,33
+CP00748,O008110,Cold Food,Resolved,66
+CP00749,O006807,Late Delivery,Open,19
+CP00750,O018218,Late Delivery,Open,14
+CP00751,O013052,Late Delivery,Resolved,13
+CP00752,O004170,Wrong Item,Resolved,41
+CP00753,O012997,Late Delivery,Resolved,42
+CP00754,O002555,Wrong Item,Open,69
+CP00755,O010415,Cold Food,Resolved,6
+CP00756,O006506,Late Delivery,Open,19
+CP00757,O004055,Wrong Item,Open,14
+CP00758,O013252,Packaging,Open,59
+CP00759,O019291,Late Delivery,Resolved,62
+CP00760,O010101,Cold Food,Resolved,37
+CP00761,O016538,Wrong Item,Resolved,40
+CP00762,O016323,Wrong Item,Open,17
+CP00763,O015697,Late Delivery,Open,30
+CP00764,O016550,Missing Item,Open,7
+CP00765,O006821,Missing Item,Open,46
+CP00766,O018296,Packaging,Open,16
+CP00767,O011040,Cold Food,Resolved,24
+CP00768,O010126,Missing Item,Resolved,36
+CP00769,O000380,Cold Food,Resolved,2
+CP00770,O013862,Cold Food,Resolved,14
+CP00771,O002715,Packaging,Resolved,65
+CP00772,O012597,Packaging,Open,40
+CP00773,O009334,Wrong Item,Resolved,72
+CP00774,O014038,Wrong Item,Resolved,55
+CP00775,O012383,Wrong Item,Open,26
+CP00776,O007485,Packaging,Open,10
+CP00777,O019874,Missing Item,Resolved,48
+CP00778,O012193,Cold Food,Resolved,43
+CP00779,O001736,Packaging,Open,53
+CP00780,O016785,Late Delivery,Resolved,55
+CP00781,O007548,Cold Food,Open,11
+CP00782,O014574,Missing Item,Resolved,65
+CP00783,O019429,Cold Food,Resolved,71
+CP00784,O008857,Packaging,Resolved,10
+CP00785,O013101,Cold Food,Open,10
+CP00786,O001015,Missing Item,Resolved,67
+CP00787,O002182,Missing Item,Open,67
+CP00788,O004019,Missing Item,Open,7
+CP00789,O004918,Wrong Item,Resolved,26
+CP00790,O003175,Packaging,Open,64
+CP00791,O006315,Packaging,Resolved,51
+CP00792,O010560,Late Delivery,Open,51
+CP00793,O016460,Wrong Item,Resolved,9
+CP00794,O006213,Packaging,Open,41
+CP00795,O018303,Cold Food,Open,25
+CP00796,O014132,Wrong Item,Resolved,60
+CP00797,O004350,Late Delivery,Open,60
+CP00798,O016458,Packaging,Open,29
+CP00799,O010067,Packaging,Open,48
+CP00800,O019687,Packaging,Resolved,33
+CP00801,O012435,Late Delivery,Open,25
+CP00802,O009699,Cold Food,Open,24
+CP00803,O013299,Cold Food,Open,1
+CP00804,O005350,Cold Food,Resolved,49
+CP00805,O011895,Missing Item,Open,38
+CP00806,O019921,Cold Food,Open,22
+CP00807,O007368,Packaging,Resolved,59
+CP00808,O017921,Late Delivery,Resolved,50
+CP00809,O009424,Wrong Item,Open,32
+CP00810,O018752,Missing Item,Open,29
+CP00811,O013124,Wrong Item,Resolved,36
+CP00812,O014428,Cold Food,Resolved,20
+CP00813,O005705,Missing Item,Resolved,7
+CP00814,O019467,Missing Item,Resolved,54
+CP00815,O002061,Late Delivery,Open,54
+CP00816,O011140,Late Delivery,Open,49
+CP00817,O018324,Wrong Item,Open,33
+CP00818,O007679,Missing Item,Open,28
+CP00819,O005373,Wrong Item,Open,36
+CP00820,O009812,Packaging,Resolved,12
+CP00821,O019766,Late Delivery,Resolved,39
+CP00822,O002421,Cold Food,Resolved,72
+CP00823,O001490,Packaging,Open,12
+CP00824,O019240,Late Delivery,Open,39
+CP00825,O014478,Wrong Item,Open,31
+CP00826,O008520,Missing Item,Resolved,33
+CP00827,O011436,Missing Item,Resolved,46
+CP00828,O001964,Wrong Item,Open,65
+CP00829,O004140,Missing Item,Open,58
+CP00830,O007740,Cold Food,Open,41
+CP00831,O017502,Cold Food,Open,25
+CP00832,O004945,Late Delivery,Open,23
+CP00833,O004055,Cold Food,Resolved,28
+CP00834,O017032,Wrong Item,Open,28
+CP00835,O017986,Packaging,Resolved,63
+CP00836,O012710,Missing Item,Open,7
+CP00837,O007432,Cold Food,Resolved,55
+CP00838,O016772,Wrong Item,Open,41
+CP00839,O017453,Missing Item,Open,72
+CP00840,O013131,Late Delivery,Resolved,67
+CP00841,O013446,Late Delivery,Resolved,72
+CP00842,O010338,Packaging,Resolved,3
+CP00843,O009012,Late Delivery,Resolved,70
+CP00844,O013188,Missing Item,Resolved,4
+CP00845,O006771,Missing Item,Open,52
+CP00846,O003695,Wrong Item,Resolved,46
+CP00847,O013267,Late Delivery,Resolved,19
+CP00848,O016648,Missing Item,Resolved,54
+CP00849,O007567,Cold Food,Resolved,54
+CP00850,O011911,Packaging,Resolved,32
+CP00851,O015767,Wrong Item,Resolved,33
+CP00852,O004755,Cold Food,Resolved,33
+CP00853,O000139,Missing Item,Resolved,17
+CP00854,O019070,Wrong Item,Resolved,48
+CP00855,O015182,Packaging,Resolved,28
+CP00856,O009256,Packaging,Resolved,11
+CP00857,O008998,Late Delivery,Resolved,29
+CP00858,O000408,Cold Food,Open,18
+CP00859,O001750,Packaging,Open,66
+CP00860,O003362,Cold Food,Resolved,72
+CP00861,O019843,Cold Food,Open,66
+CP00862,O016638,Wrong Item,Open,45
+CP00863,O014205,Cold Food,Resolved,54
+CP00864,O017172,Cold Food,Resolved,34
+CP00865,O012104,Packaging,Open,28
+CP00866,O006364,Packaging,Open,45
+CP00867,O002253,Cold Food,Open,28
+CP00868,O011826,Late Delivery,Resolved,22
+CP00869,O000295,Packaging,Resolved,64
+CP00870,O018066,Cold Food,Open,53
+CP00871,O001204,Packaging,Resolved,30
+CP00872,O007383,Late Delivery,Open,20
+CP00873,O016969,Missing Item,Open,56
+CP00874,O002427,Cold Food,Open,55
+CP00875,O004394,Cold Food,Open,36
+CP00876,O014642,Cold Food,Open,1
+CP00877,O016984,Packaging,Open,48
+CP00878,O013143,Cold Food,Resolved,20
+CP00879,O004357,Missing Item,Open,64
+CP00880,O019595,Late Delivery,Open,69
+CP00881,O009048,Wrong Item,Resolved,9
+CP00882,O016409,Cold Food,Resolved,2
+CP00883,O006488,Missing Item,Resolved,26
+CP00884,O005187,Wrong Item,Resolved,72
+CP00885,O007345,Wrong Item,Resolved,26
+CP00886,O000520,Missing Item,Resolved,62
+CP00887,O009918,Missing Item,Resolved,40
+CP00888,O013361,Cold Food,Resolved,25
+CP00889,O019806,Wrong Item,Resolved,59
+CP00890,O003441,Missing Item,Resolved,17
+CP00891,O009028,Missing Item,Resolved,70
+CP00892,O019387,Cold Food,Resolved,21
+CP00893,O009498,Packaging,Open,53
+CP00894,O004922,Packaging,Resolved,10
+CP00895,O001564,Wrong Item,Resolved,6
+CP00896,O014216,Late Delivery,Open,28
+CP00897,O002133,Late Delivery,Open,54
+CP00898,O013418,Packaging,Resolved,61
+CP00899,O000279,Missing Item,Open,22
+CP00900,O001771,Missing Item,Open,66
+CP00901,O006972,Missing Item,Resolved,47
+CP00902,O015337,Late Delivery,Resolved,63
+CP00903,O005969,Late Delivery,Resolved,41
+CP00904,O015016,Packaging,Resolved,3
+CP00905,O012616,Packaging,Resolved,39
+CP00906,O009783,Packaging,Resolved,36
+CP00907,O019565,Packaging,Open,32
+CP00908,O004376,Late Delivery,Open,43
+CP00909,O010352,Packaging,Open,28
+CP00910,O017880,Missing Item,Open,56
+CP00911,O017369,Missing Item,Resolved,48
+CP00912,O012698,Late Delivery,Resolved,20
+CP00913,O015197,Missing Item,Resolved,53
+CP00914,O009917,Late Delivery,Open,22
+CP00915,O011546,Wrong Item,Open,61
+CP00916,O009894,Missing Item,Open,28
+CP00917,O014346,Late Delivery,Open,5
+CP00918,O002205,Late Delivery,Resolved,19
+CP00919,O001955,Cold Food,Resolved,63
+CP00920,O007943,Wrong Item,Open,25
+CP00921,O003064,Packaging,Open,36
+CP00922,O007021,Wrong Item,Open,19
+CP00923,O018155,Missing Item,Open,66
+CP00924,O012110,Packaging,Resolved,41
+CP00925,O014847,Late Delivery,Open,62
+CP00926,O017086,Cold Food,Open,55
+CP00927,O006183,Missing Item,Resolved,59
+CP00928,O004293,Missing Item,Open,22
+CP00929,O002856,Packaging,Resolved,31
+CP00930,O019786,Packaging,Resolved,50
+CP00931,O014725,Packaging,Resolved,59
+CP00932,O018997,Missing Item,Open,62
+CP00933,O011540,Missing Item,Open,30
+CP00934,O014443,Wrong Item,Open,14
+CP00935,O009794,Late Delivery,Resolved,28
+CP00936,O019435,Wrong Item,Open,26
+CP00937,O008426,Packaging,Open,9
+CP00938,O007388,Late Delivery,Resolved,28
+CP00939,O017988,Packaging,Open,47
+CP00940,O014835,Packaging,Resolved,2
+CP00941,O007643,Cold Food,Open,61
+CP00942,O018939,Cold Food,Resolved,44
+CP00943,O012703,Packaging,Resolved,14
+CP00944,O008181,Late Delivery,Open,18
+CP00945,O007298,Cold Food,Resolved,1
+CP00946,O000605,Missing Item,Resolved,43
+CP00947,O004240,Wrong Item,Resolved,29
+CP00948,O011241,Packaging,Open,51
+CP00949,O006655,Packaging,Resolved,60
+CP00950,O007277,Packaging,Resolved,2
+CP00951,O019832,Cold Food,Resolved,72
+CP00952,O003543,Wrong Item,Resolved,4
+CP00953,O009457,Cold Food,Resolved,69
+CP00954,O008740,Missing Item,Open,3
+CP00955,O013884,Late Delivery,Resolved,44
+CP00956,O001070,Cold Food,Open,49
+CP00957,O007027,Cold Food,Resolved,42
+CP00958,O015125,Cold Food,Resolved,27
+CP00959,O013978,Late Delivery,Open,10
+CP00960,O011254,Cold Food,Resolved,67
+CP00961,O017443,Wrong Item,Resolved,37
+CP00962,O002530,Packaging,Resolved,30
+CP00963,O001302,Packaging,Open,56
+CP00964,O006590,Cold Food,Open,11
+CP00965,O014048,Late Delivery,Open,65
+CP00966,O008561,Missing Item,Resolved,22
+CP00967,O017000,Wrong Item,Resolved,71
+CP00968,O001277,Packaging,Open,27
+CP00969,O008924,Wrong Item,Resolved,21
+CP00970,O003928,Packaging,Open,53
+CP00971,O007782,Cold Food,Resolved,62
+CP00972,O003488,Late Delivery,Resolved,50
+CP00973,O002900,Late Delivery,Resolved,10
+CP00974,O012713,Cold Food,Open,58
+CP00975,O019029,Cold Food,Open,66
+CP00976,O002620,Packaging,Open,30
+CP00977,O015001,Packaging,Open,57
+CP00978,O003373,Wrong Item,Resolved,16
+CP00979,O016135,Missing Item,Resolved,41
+CP00980,O007233,Cold Food,Resolved,57
+CP00981,O001938,Packaging,Resolved,1
+CP00982,O017503,Cold Food,Resolved,42
+CP00983,O018284,Late Delivery,Open,5
+CP00984,O002681,Cold Food,Resolved,26
+CP00985,O019418,Late Delivery,Open,71
+CP00986,O000952,Missing Item,Open,5
+CP00987,O006512,Late Delivery,Open,23
+CP00988,O011943,Packaging,Resolved,66
+CP00989,O007214,Cold Food,Resolved,10
+CP00990,O010700,Cold Food,Open,72
+CP00991,O013197,Wrong Item,Open,1
+CP00992,O010537,Packaging,Resolved,59
+CP00993,O006047,Packaging,Open,20
+CP00994,O012323,Wrong Item,Resolved,66
+CP00995,O012324,Missing Item,Open,53
+CP00996,O002646,Packaging,Open,44
+CP00997,O019322,Missing Item,Resolved,22
+CP00998,O003199,Missing Item,Open,40
+CP00999,O001749,Cold Food,Open,70
+CP01000,O003122,Late Delivery,Resolved,59
+CP01001,O003491,Cold Food,Resolved,50
+CP01002,O014884,Wrong Item,Resolved,72
+CP01003,O009832,Packaging,Open,12
+CP01004,O003744,Late Delivery,Resolved,40
+CP01005,O009409,Late Delivery,Resolved,19
+CP01006,O000630,Late Delivery,Open,7
+CP01007,O018420,Missing Item,Resolved,70
+CP01008,O018329,Wrong Item,Resolved,37
+CP01009,O017839,Late Delivery,Resolved,24
+CP01010,O001823,Packaging,Open,31
+CP01011,O001882,Cold Food,Open,20
+CP01012,O003899,Packaging,Open,47
+CP01013,O006599,Wrong Item,Open,59
+CP01014,O004813,Wrong Item,Resolved,35
+CP01015,O005337,Cold Food,Resolved,47
+CP01016,O010617,Late Delivery,Resolved,31
+CP01017,O001149,Packaging,Open,65
+CP01018,O006280,Missing Item,Resolved,35
+CP01019,O007857,Cold Food,Open,60
+CP01020,O003514,Missing Item,Resolved,17
+CP01021,O013822,Late Delivery,Resolved,72
+CP01022,O001113,Missing Item,Resolved,61
+CP01023,O000756,Late Delivery,Resolved,47
+CP01024,O001536,Missing Item,Open,63
+CP01025,O012215,Cold Food,Open,48
+CP01026,O017741,Late Delivery,Open,40
+CP01027,O014498,Packaging,Resolved,60
+CP01028,O009707,Late Delivery,Open,9
+CP01029,O012845,Missing Item,Open,9
+CP01030,O019321,Packaging,Open,49
+CP01031,O011525,Wrong Item,Open,60
+CP01032,O008698,Wrong Item,Open,38
+CP01033,O004362,Late Delivery,Resolved,40
+CP01034,O012760,Late Delivery,Resolved,2
+CP01035,O015035,Late Delivery,Resolved,9
+CP01036,O015297,Late Delivery,Open,60
+CP01037,O019527,Cold Food,Open,63
+CP01038,O018990,Wrong Item,Resolved,4
+CP01039,O008965,Packaging,Open,13
+CP01040,O003548,Packaging,Open,48
+CP01041,O018290,Packaging,Open,13
+CP01042,O018793,Cold Food,Open,8
+CP01043,O018117,Cold Food,Resolved,56
+CP01044,O000032,Packaging,Resolved,44
+CP01045,O004804,Missing Item,Open,51
+CP01046,O006081,Late Delivery,Open,22
+CP01047,O010911,Cold Food,Open,71
+CP01048,O017811,Packaging,Open,3
+CP01049,O017031,Cold Food,Open,7
+CP01050,O000853,Packaging,Open,1
+CP01051,O013106,Wrong Item,Open,67
+CP01052,O014162,Missing Item,Resolved,48
+CP01053,O013087,Missing Item,Resolved,2
+CP01054,O013882,Wrong Item,Open,4
+CP01055,O012566,Missing Item,Open,8
+CP01056,O011952,Wrong Item,Resolved,37
+CP01057,O012404,Missing Item,Resolved,59
+CP01058,O014982,Late Delivery,Resolved,49
+CP01059,O007670,Packaging,Resolved,41
+CP01060,O017748,Cold Food,Open,23
+CP01061,O019615,Late Delivery,Open,55
+CP01062,O012080,Wrong Item,Open,41
+CP01063,O016534,Cold Food,Open,7
+CP01064,O011245,Wrong Item,Open,38
+CP01065,O016303,Wrong Item,Open,63
+CP01066,O005069,Wrong Item,Open,22
+CP01067,O014399,Cold Food,Resolved,20
+CP01068,O003719,Missing Item,Resolved,30
+CP01069,O008869,Late Delivery,Open,11
+CP01070,O009922,Missing Item,Resolved,16
+CP01071,O005700,Late Delivery,Resolved,21
+CP01072,O006485,Late Delivery,Open,21
+CP01073,O002847,Cold Food,Open,65
+CP01074,O014099,Wrong Item,Resolved,32
+CP01075,O018527,Wrong Item,Resolved,17
+CP01076,O000616,Wrong Item,Open,17
+CP01077,O008454,Packaging,Open,7
+CP01078,O006829,Late Delivery,Resolved,60
+CP01079,O013041,Cold Food,Open,35
+CP01080,O019921,Wrong Item,Open,59
+CP01081,O006001,Missing Item,Resolved,27
+CP01082,O011634,Wrong Item,Resolved,12
+CP01083,O019619,Late Delivery,Open,26
+CP01084,O014632,Wrong Item,Open,69
+CP01085,O013280,Wrong Item,Open,72
+CP01086,O008732,Late Delivery,Resolved,43
+CP01087,O013823,Wrong Item,Resolved,52
+CP01088,O012739,Missing Item,Resolved,52
+CP01089,O001424,Wrong Item,Resolved,13
+CP01090,O004801,Packaging,Open,2
+CP01091,O018794,Packaging,Resolved,38
+CP01092,O001477,Late Delivery,Resolved,17
+CP01093,O000404,Packaging,Resolved,45
+CP01094,O013508,Cold Food,Open,41
+CP01095,O000095,Cold Food,Resolved,10
+CP01096,O007235,Missing Item,Resolved,25
+CP01097,O010358,Cold Food,Open,60
+CP01098,O000996,Packaging,Resolved,56
+CP01099,O005720,Late Delivery,Open,35
+CP01100,O018354,Cold Food,Resolved,39
+CP01101,O009869,Late Delivery,Open,51
+CP01102,O018174,Missing Item,Open,22
+CP01103,O009605,Missing Item,Resolved,14
+CP01104,O008317,Cold Food,Resolved,57
+CP01105,O017397,Late Delivery,Open,14
+CP01106,O001793,Wrong Item,Resolved,60
+CP01107,O014883,Wrong Item,Open,57
+CP01108,O011962,Wrong Item,Resolved,26
+CP01109,O004803,Packaging,Resolved,27
+CP01110,O001004,Missing Item,Resolved,5
+CP01111,O004454,Missing Item,Open,68
+CP01112,O017662,Wrong Item,Resolved,27
+CP01113,O007353,Wrong Item,Resolved,31
+CP01114,O008303,Packaging,Resolved,36
+CP01115,O013771,Wrong Item,Resolved,13
+CP01116,O016725,Late Delivery,Open,44
+CP01117,O003626,Wrong Item,Resolved,59
+CP01118,O001289,Late Delivery,Open,60
+CP01119,O000004,Wrong Item,Open,19
+CP01120,O006761,Late Delivery,Open,19
+CP01121,O003534,Cold Food,Open,57
+CP01122,O006946,Missing Item,Open,27
+CP01123,O009299,Missing Item,Resolved,27
+CP01124,O010002,Packaging,Open,23
+CP01125,O007193,Missing Item,Resolved,57
+CP01126,O006370,Late Delivery,Resolved,70
+CP01127,O001981,Wrong Item,Open,55
+CP01128,O011755,Late Delivery,Open,52
+CP01129,O016276,Packaging,Open,9
+CP01130,O002302,Packaging,Open,11
+CP01131,O015604,Wrong Item,Resolved,34
+CP01132,O009552,Late Delivery,Open,66
+CP01133,O003777,Wrong Item,Open,20
+CP01134,O009035,Packaging,Resolved,7
+CP01135,O019070,Missing Item,Open,44
+CP01136,O000708,Cold Food,Resolved,66
+CP01137,O017673,Late Delivery,Resolved,3
+CP01138,O008781,Packaging,Open,18
+CP01139,O003786,Wrong Item,Resolved,49
+CP01140,O009481,Packaging,Resolved,62
+CP01141,O011816,Late Delivery,Resolved,1
+CP01142,O005390,Missing Item,Resolved,21
+CP01143,O019240,Missing Item,Resolved,48
+CP01144,O006944,Wrong Item,Resolved,48
+CP01145,O017503,Packaging,Open,58
+CP01146,O010195,Packaging,Open,71
+CP01147,O009834,Missing Item,Resolved,40
+CP01148,O007255,Cold Food,Resolved,4
+CP01149,O012069,Packaging,Resolved,31
+CP01150,O010931,Missing Item,Open,32
+CP01151,O001653,Missing Item,Open,26
+CP01152,O016668,Late Delivery,Resolved,13
+CP01153,O017665,Wrong Item,Resolved,29
+CP01154,O002473,Missing Item,Resolved,8
+CP01155,O009134,Wrong Item,Resolved,43
+CP01156,O012806,Cold Food,Resolved,54
+CP01157,O005927,Cold Food,Open,60
+CP01158,O000211,Cold Food,Open,15
+CP01159,O002795,Late Delivery,Resolved,47
+CP01160,O011737,Cold Food,Open,56
+CP01161,O012856,Missing Item,Resolved,47
+CP01162,O011925,Missing Item,Resolved,30
+CP01163,O017177,Cold Food,Resolved,18
+CP01164,O003873,Cold Food,Resolved,52
+CP01165,O010040,Cold Food,Open,52
+CP01166,O009513,Late Delivery,Resolved,2
+CP01167,O011256,Missing Item,Resolved,42
+CP01168,O017663,Cold Food,Open,30
+CP01169,O014317,Late Delivery,Open,15
+CP01170,O006427,Wrong Item,Resolved,27
+CP01171,O010429,Wrong Item,Resolved,30
+CP01172,O001771,Wrong Item,Resolved,23
+CP01173,O001182,Cold Food,Resolved,23
+CP01174,O010276,Packaging,Resolved,43
+CP01175,O005123,Packaging,Open,67
+CP01176,O001172,Wrong Item,Resolved,16
+CP01177,O015309,Missing Item,Open,1
+CP01178,O013679,Cold Food,Resolved,59
+CP01179,O009814,Wrong Item,Resolved,52
+CP01180,O005632,Cold Food,Resolved,58
+CP01181,O016968,Cold Food,Open,9
+CP01182,O002578,Late Delivery,Resolved,41
+CP01183,O003042,Cold Food,Resolved,71
+CP01184,O019997,Wrong Item,Resolved,32
+CP01185,O018602,Wrong Item,Open,64
+CP01186,O011550,Missing Item,Resolved,6
+CP01187,O009517,Missing Item,Open,48
+CP01188,O008759,Cold Food,Resolved,5
+CP01189,O002115,Wrong Item,Open,24
+CP01190,O009533,Wrong Item,Resolved,41
+CP01191,O019266,Missing Item,Open,23
+CP01192,O001464,Wrong Item,Resolved,38
+CP01193,O016981,Cold Food,Resolved,3
+CP01194,O001374,Packaging,Resolved,39
+CP01195,O015563,Packaging,Open,57
+CP01196,O005827,Packaging,Open,51
+CP01197,O005553,Missing Item,Resolved,37
+CP01198,O010665,Wrong Item,Open,43
+CP01199,O004965,Packaging,Resolved,38
+CP01200,O006502,Cold Food,Open,3
