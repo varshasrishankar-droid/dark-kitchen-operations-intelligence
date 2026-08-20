@@ -420,7 +420,9 @@ Financial Intelligence
 
 ## Author
 
-### **VARSHA S**
+### **VARSHA S** (AF05247875)
+Data & Business Analyst With AI
+Anudip Foundation--Pallavaram, Chennai.
 
 **Project:** Food Delivery Dark Kitchen Operations Intelligence Platform
 
